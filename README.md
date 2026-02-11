@@ -1,2 +1,2 @@
 # Project_Exercise3
-Collaborators: Jonas
+Collaborators: Jonas, Klara
